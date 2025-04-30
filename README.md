@@ -5,12 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
-This GitHub is where I’ll be documenting that journey and needed scripts for daily basis.
-
----
-
 ## 🧠 Skills & Interests
 
 - 🔧 IT Support & Troubleshooting  
